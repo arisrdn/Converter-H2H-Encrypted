@@ -1,0 +1,42 @@
+Jun 15, 2021 3:42:14 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 3:42:15 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 3:42:15 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 3:45:30 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 3:45:31 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 3:45:31 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 3:45:43 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 3:45:44 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 3:45:44 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 3:56:11 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 3:56:11 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 3:56:11 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 3:56:28 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 3:56:28 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 3:56:28 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 4:15:36 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 4:15:36 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 4:15:36 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
+Jun 15, 2021 4:15:49 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigEncrypt
+INFO: Reading configuration file.
+Jun 15, 2021 4:15:50 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File ADIRA_003600264117_20210128.txt encrypted
+Jun 15, 2021 4:15:50 PM main.java.com.test.pgp.bc.BCPGPEncrypt main
+INFO: File KAI001_000001176908_20200722.txt encrypted
